@@ -1,6 +1,8 @@
 # Introduction
 Hi! I'm Feng Chen, a student in the Framework-Based Software Design and Development course. I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
-
+- **Fun fact**: I love traveling to different countries.
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software.
+<img width="1861" height="1331" alt="Pikachu-color-model-publicity-cel" src="https://github.com/user-attachments/assets/182115a9-abd2-46a1-9505-4eeeb8c0cdf9" />
 
 <!--
 **FCXiaoqi/FCXiaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
