@@ -1,4 +1,6 @@
-## Hi there 👋
+# Introduction
+Hi! I'm Feng Chen, a student in the Framework-Based Software Design and Development course. I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
+
 
 <!--
 **FCXiaoqi/FCXiaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
